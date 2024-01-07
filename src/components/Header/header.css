@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    width: 1440px;
+    height: 56px;
+    padding: 12px 120px;
+    justify-content: center;
+    align-items: center;
+    gap: 778px;
+    flex-shrink: 0;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-family: "Raleway";
+    font-weight: 500;
+    line-height: 28px;
+}

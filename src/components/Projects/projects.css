@@ -1,0 +1,102 @@
+.container-projects {
+    width: 1440px;
+    height: 3813px;
+    background: var(--bg-gray, #F9FAFF);
+}
+
+.bg{
+    background-color: #F9FAFF;   
+}
+
+.container{
+    background-color: #F9FAFF;
+}
+.container-pro {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+
+
+.pro-head {
+    color: var(--font-high-emphasis, #25282B);
+    text-align: center;
+    /* title / h2 */
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    /* 150% */
+}
+
+.project-img {
+    height: 526px;
+    width: 496px;
+}
+
+.desc-con {
+    height: 526px;
+    width: 496px;
+}
+
+
+.projects-heading {
+    font-family: "Playfair";
+    font-weight: 700;
+    font-size: 40px;
+    color: #25282B;
+    line-height: 60px;
+
+}
+
+.projects-desc {
+    font-family: "Nunito";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #828282;
+}
+
+.projects-button {
+    width: 150px;
+    height: 43px;
+    border-radius: 24px;
+    border: 1px;
+    padding: 8px, 24px, 8px, 24px;
+    color: #25282B;
+}
+
+.logo {
+    height: 48px;
+    width: 48px;
+    margin: 5px;
+}
+
+.para {
+    font-family: "Nunito";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.82px;
+    color: #828282;
+}
+
+.footer {
+    width: 1436px;
+    height: 111.89px;
+
+    top: 3701px;
+    left: 4px;
+}
+
+.head {
+    font-family: "Playfair Display";
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+
+}
